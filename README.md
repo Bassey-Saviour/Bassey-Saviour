@@ -1,5 +1,8 @@
 ## Hi there 👋
 Welcome to the wonderful world of Saviour Bassey😮‍💨🤯
+
+##Writings
+!00 days of CS to become competent - https://medium.com/@savieeddie/project-cs100-100-days-of-computer-science-mastery-ced82fdee780
 <!--
 **Bassey-Saviour/Bassey-Saviour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
