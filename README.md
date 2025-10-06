@@ -1,8 +1,15 @@
 ## Hi there 👋
 Welcome to the wonderful world of Saviour Bassey😮‍💨🤯
+🌱 I’m currently learning networking and node.js
+
+## Projects
+- Elementary Quiz for children
+
+## Currently Working on
+- A blog to learn backend
 
 ## Writings
-!00 days of CS to become competent - https://medium.com/@savieeddie/project-cs100-100-days-of-computer-science-mastery-ced82fdee780
+100 days of CS to become competent - https://medium.com/@savieeddie/project-cs100-100-days-of-computer-science-mastery-ced82fdee780
 <!--
 **Bassey-Saviour/Bassey-Saviour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
